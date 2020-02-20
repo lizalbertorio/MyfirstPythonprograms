@@ -1,0 +1,4 @@
+# This program says hello and asks for my name is Spanish
+print ('Hola amig@ Como te llamas?')
+myName= input()
+print ('Mucho gusto en conocerte, '+ myName)
